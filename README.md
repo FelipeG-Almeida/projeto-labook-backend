@@ -8,7 +8,7 @@ O Labook é uma rede social com o objetivo de promover a conexão e interação 
 
 ## Funcionalidades
 
-O backend do LabEcommerce possui as seguintes funcionalidades:
+O backend do Labook possui as seguintes funcionalidades:
 
 - CRUD (Create, Read, Update, Delete) de usuários e posts
 - Validação dos endpoints
