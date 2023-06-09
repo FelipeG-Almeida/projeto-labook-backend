@@ -28,6 +28,12 @@ A API possui os seguintes endpoints disponíveis:
 - **DELETE /posts/:id**: Exclui um post específico com base no seu Id.
 - **PUT /posts/:id/like**: Realiza a função de like em um post específico com base no seu Id.
 
+## 🎲 Banco de dados
+
+Diagrama do banco de dados, suas tabelas e relações:
+
+![216036534-2b3dfb48-7782-411a-bffd-36245b78594e](https://github.com/FelipeG-Almeida/projeto-labook-backend/assets/73674044/38cd25bd-8485-42d8-aecf-66bbb72f9b14)
+
 ## ⚙️ Configuração do Projeto
 
 Para configurar o projeto em sua máquina local, siga os passos abaixo:
