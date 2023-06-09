@@ -1,19 +1,19 @@
-# Labook Backend
+# 📘 Labook Backend
 
 Este é o projeto Labook, uma rede social com o objetivo de promover a conexão e interação entre pessoas. Desenvolvido como parte do projeto final do curso de Desenvolvimento Full Stack da Labenu, unicamente para fins didáticos.
 
-## Sobre o Projeto
+## 📑 Sobre o Projeto
 
 O Labook é uma rede social com o objetivo de promover a conexão e interação entre pessoas. Quem se cadastrar no aplicativo poderá criar e curtir publicações.
 
-## Funcionalidades
+## ▶️ Funcionalidades
 
 O backend do Labook possui as seguintes funcionalidades:
 
 - CRUD (Create, Read, Update, Delete) de usuários e posts
 - Validação dos endpoints
 
-## Endpoints
+## 🔚 Endpoints
 
 A API possui os seguintes endpoints disponíveis:
 
@@ -26,7 +26,7 @@ A API possui os seguintes endpoints disponíveis:
 - **DELETE /posts/:id**: Exclui um post específico com base no seu Id.
 - **PUT /posts/:id/like**: Realiza a função de like em um post específico com base no seu Id.
 
-## Configuração do Projeto
+## ⚙️ Configuração do Projeto
 
 Para configurar o projeto em sua máquina local, siga os passos abaixo:
 
@@ -52,11 +52,11 @@ npm dev start
 
 O servidor será iniciado na porta especificada na variável de ambiente `PORT` (padrão: 3001).
 
-## Documentação da API
+## 📜 Documentação da API
 
 A documentação da API pode ser encontrada em https://documenter.getpostman.com/view/24823235/2s93sXca7Y, que fornece detalhes sobre os endpoints disponíveis, parâmetros de entrada, exemplos de solicitações e respostas.
 
-## Tecnologias e Metodologias Utilizadas
+## 🛠️ Tecnologias e Metodologias Utilizadas
 
 - NodeJS
 - Typescript
@@ -71,6 +71,6 @@ A documentação da API pode ser encontrada em https://documenter.getpostman.com
 - Roteamento
 - Postman
 
-## Contribuição
+## 👍 Contribuição
 
 Contribuições são bem-vindas! Se você deseja contribuir com o projeto, sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
